@@ -1,0 +1,15 @@
+
+| (pipe) = add two different commands
+> = redirect
+ALWAYS DO pwd TO BE SURE WHERE I AM 
+cat = show the content of a file
+cd .. = one directory up
+cd ~ = change directory to home folder
+cd = change directory
+code = open visual studio code
+echo = create file with text in it
+ls = list of the directory I am
+mkdir = create directory (folder)
+pwd = where am I?
+This is my cheat sheet
+touch = create file with no text in it
